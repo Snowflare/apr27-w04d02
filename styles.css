@@ -1,0 +1,14 @@
+h1 {
+  color: rebeccapurple;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.content {
+  font-size: 24px;
+}
+
+#main-list {
+  border: 3px dotted orange;
+  border-radius: 5px;
+}
